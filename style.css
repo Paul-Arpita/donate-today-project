@@ -1,0 +1,256 @@
+body {
+    height: 100%;
+    margin: 0;
+}
+
+footer {
+    margin: 0;
+}
+
+.inter_font_family {
+    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+.banner_img {
+    background-image: url(images/donation1.jpg);
+
+    height: 50%;
+    background-repeat:
+        no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    color: white;
+    font-weight: 700;
+    text-align: center;
+    font-size: 65px;
+    margin-top: 0;
+}
+
+.heading {
+    /* padding-top: 189.73px;
+    padding-bottom: 211.78px; */
+    /* display: flex; */
+
+    text-align: center;
+    justify-content: center;
+}
+
+.para {
+    text-align: center;
+    color: #707070;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.donate_now_div {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 0;
+}
+
+.donate_btn {
+    text-align: center;
+    margin-bottom: 207px;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 20px;
+    margin-top: 50px;
+    background-color: orange;
+    border: 1px solid orange;
+    border-radius: 5px;
+
+}
+
+
+
+/*?????????? Donate Today second section??????????????????????????????????????? */
+.donate_section {
+    margin-top: 130px;
+}
+
+#donate_today {
+
+    color: black;
+    font-weight: 700;
+    font-size: 45px;
+    text-align: center;
+}
+
+.tk {
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* text-align: center; */
+    width: 135px;
+    height: 123px;
+    left: 338px;
+    top: 979px;
+    background: #FAFAFA;
+    border: 1px solid #FAFAFA;
+    border-radius: 5px;
+    margin-right: 10px;
+
+}
+
+#two_hundred {
+    color: #FF5959;
+    border: 2px solid #FF5959;
+    background-color: #FFEEEE;
+}
+
+.tk_box {
+    display: flex;
+    justify-content: center;
+}
+
+#other_amount {
+    display: flex;
+    justify-content: center;
+}
+
+.donate_now_div {
+    display: flex;
+    justify-content: center;
+}
+
+.donate_plan_heading {
+    text-align: center;
+    align-content: center;
+}
+
+.donate_plan_heading h2 {
+    margin-top: 0;
+}
+
+
+.donate_plan_heading p {
+    color: #707070;
+}
+
+
+.donate_plan_box_container {
+    display: flex;
+    justify-content: center;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 0;
+    margin-bottom: 40px;
+}
+
+#family_food_pic {
+    width: 58.13px;
+    height: 49.77px;
+    left: 180px;
+    top: 1659px;
+}
+
+.donate_plan_box {
+    padding-top: 50px;
+    padding-left: 23px;
+    padding-right: 22px;
+    padding-bottom: 54px;
+    margin-right: 24px;
+
+}
+
+#icon_bg_food {
+    background-color: rgba(79, 157, 166, 0.1);
+}
+
+#icon_bg_shelter {
+    background-color: rgba(255, 89, 89, 0.1);
+}
+
+#icon_bg_edu {
+    background-color: #FFF4D6;
+}
+
+
+.form_div {
+    display: flex;
+    justify-content: center;
+
+}
+
+#link {
+
+    display: flex;
+    justify-content: center;
+}
+
+#relief_img {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 80%;
+}
+
+.link_style {
+    text-decoration: none;
+    border: 2px solid gray;
+    border-radius: 5px;
+    padding: 10px 40px;
+    background-color: #707070;
+    color: #FAFAFA;
+    font-size: large;
+    font-weight: 700;
+    margin-top: 10px;
+    margin-right: 20px;
+}
+
+.form {
+    display: flex;
+    padding-top: 76px;
+    padding-bottom: 76px;
+    padding-left: 188px;
+    padding-right: 188px;
+    border: 1px solid red;
+    background-color: #FFF4D6;
+
+}
+
+#email_box {
+    width: 275px;
+    height: 48px;
+    padding-left: 10px;
+    background-color: #D9D9D9;
+    color: #AA9F9F;
+    border: 1px solid #D9D9D9;
+    margin-right: 0;
+}
+
+#subs_box {
+    width: 157px;
+    height: 48px;
+    background-color: #FF5959;
+    color: white;
+    border: 1px solid #FF5959;
+    margin-left: 0;
+
+}
+
+.footer_container {
+    background-color: black;
+    margin-bottom: 0;
+}
+
+footer h2 {
+    color: #FF5959;
+    font-size: 36px;
+    font-weight: 400;
+    text-align: center;
+    padding-top: 43px;
+
+}
+
+footer p {
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding-bottom: 42px;
+}
